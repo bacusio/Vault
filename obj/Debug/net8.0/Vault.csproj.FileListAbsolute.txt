@@ -1,0 +1,6 @@
+D:\Vault\obj\Debug\net8.0\Vault.csproj.AssemblyReference.cache
+D:\Vault\obj\Debug\net8.0\Vault.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vault\obj\Debug\net8.0\Vault.AssemblyInfoInputs.cache
+D:\Vault\obj\Debug\net8.0\Vault.AssemblyInfo.cs
+D:\Vault\obj\Debug\net8.0\Vault.csproj.CoreCompileInputs.cache
+D:\Vault\obj\Debug\net8.0\Vault.sourcelink.json

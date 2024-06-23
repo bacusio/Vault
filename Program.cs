@@ -17,6 +17,7 @@ public class Program {
         int x =640;
         int y = 480;
         Raylib.InitWindow(x, y, "Game");
+        System.Console.WriteLine("Hello, My Name is Raylib!");
     
         // F2 
         // 值类型 内存区域 栈
