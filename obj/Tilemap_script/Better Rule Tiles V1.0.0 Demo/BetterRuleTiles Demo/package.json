@@ -1,0 +1,19 @@
+{
+  "name": "com.vinarkgames.betterruletiles",
+  "version": "1.0.0",
+  "displayName": "Better Rule Tiles Demo",
+  "description": "Make rule tiles better and easier to use.",
+  "unity": "2017.1",
+  "dependencies": {
+    "com.unity.modules.tilemap": "1.0.0",
+    "com.unity.2d.tilemap": "1.0.0",
+    "com.unity.2d.tilemap.extras": "1.0.0"
+  },
+  "author": {
+    "name": "Vinark117",
+    "email": "vinarkgamedev@gmail.com",
+    "url": "https://vinark.dev/"
+  },
+  "type": "tool",
+  "hideInEditor": false
+}
